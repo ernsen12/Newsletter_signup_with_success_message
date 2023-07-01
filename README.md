@@ -43,7 +43,7 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-  Learned onvalid and oninput attributes and reload(); function.
+  Learned onvalid and oninput attributes, reload();, and preventDefault();.
 
 ```html
 <button type="button" class="dismiss" onclick="window.location.reload();">
